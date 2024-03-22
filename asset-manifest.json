@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Inspirational-Quote-Board/static/css/main.427cb95d.css",
+    "main.js": "/Inspirational-Quote-Board/static/js/main.1bd9a987.js",
+    "index.html": "/Inspirational-Quote-Board/index.html",
+    "main.427cb95d.css.map": "/Inspirational-Quote-Board/static/css/main.427cb95d.css.map",
+    "main.1bd9a987.js.map": "/Inspirational-Quote-Board/static/js/main.1bd9a987.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.427cb95d.css",
+    "static/js/main.1bd9a987.js"
+  ]
+}
